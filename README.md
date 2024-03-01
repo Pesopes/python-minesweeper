@@ -10,3 +10,5 @@ I did the exact opposite and made this minesweeper clone to learn pygame. This w
 
 
 The game has an Easter egg with some Undertale stuff featuring the song Megalovania by Toby Fox. The main background "music" is my own.
+
+The only dependency is pygame.
